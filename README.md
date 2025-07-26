@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Artificial Intelligence](Artificial Intelligence)
 
-- 📫 How to reach me **amudhabharshi0201@gmail.com**
+- 📫 How to reach me **amudhanharshi0201@gmail.com**
 
 - ⚡ Fun fact **I am always serious.**
 
