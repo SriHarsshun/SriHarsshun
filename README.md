@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning R programming, Machine Learning<br>🤝 I’m looking for help with Virtual designing<br>📫 How to reach me amudhanharshi0201@gmail.com<br>⚡ Fun fact I am always serious.
+🌱 I’m currently learning Golang, R programming, Machine Learning<br>🤝 I’m looking for help with Virtual designing<br>📫 How to reach me amudhanharshi0201@gmail.com<br>⚡ Fun fact I am always serious.
 
 
 ## 🌐 Socials:
